@@ -18,7 +18,7 @@ export default function FeaturesBlocks() {
               information and guide users through various processes like form
               completion or product exploration. The immersive nature of 3D
               environments can make complex data more understandable and
-              interactive, which can be particularly useful in a variety of
+              interactive, which is particularly useful in a variety of
               applications.
             </p>
           </div>
