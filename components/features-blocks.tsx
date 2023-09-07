@@ -14,11 +14,12 @@ export default function FeaturesBlocks() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Create 3D solutions</h2>
             <p className="text-xl text-gray-600">
-              3D spaces offer a unique and engaging way to present information
-              and guide users through various processes like form completion or
-              product exploration. The immersive nature of 3D environments can
-              make complex data more understandable and interactive, which can
-              be particularly useful in a variety of applications.
+              3D website spaces offer a unique and engaging way to present
+              information and guide users through various processes like form
+              completion or product exploration. The immersive nature of 3D
+              environments can make complex data more understandable and
+              interactive, which can be particularly useful in a variety of
+              applications.
             </p>
           </div>
 
