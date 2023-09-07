@@ -195,7 +195,7 @@ export default function FeaturesBlocks() {
                 Interactive AI chats
               </h4>
               <p className="text-gray-600 text-center">
-                - Chatbot Framework<br></br>- Step-by-step guidance
+                - Chatbot framework<br></br>- Step-by-step guidance
                 <br></br>- Real-time personalized support
               </p>
             </div>
