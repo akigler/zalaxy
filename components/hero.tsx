@@ -59,9 +59,9 @@ export default function Hero() {
                 data-aos-delay="150"
                 style={{ fontWeight: "800" }}
               >
-                Using innovative 3D solutions, reduce customer service costs,
-                simplify customer flow, increase user interaction and extend web
-                traffic duration
+                Using innovative 3D website solutions, reduce customer service
+                costs, simplify customer flow, increase user interaction and
+                extend web traffic duration
               </p>
               <div
                 className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center"
