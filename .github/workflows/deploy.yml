@@ -1,0 +1,23 @@
+name: Deploy
+
+on:
+  push:
+    branches:
+      - main  # replace with your default branch if not 'main'
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+
+    - name: Install Wrangler
+      run: npm install -g @cloudflare/wrangler
+
+    - name: Configure Wrangler
+      run: wrangler config ${{ secrets.CF_API_TOKEN }}
+
+    - name: Deploy
+      run: wrangler publish
