@@ -71,7 +71,8 @@ export default function Hero() {
                 <div>
                   <a
                     className="btn text-white bg-blue-600 hover:bg-blue-700 w-full mb-4 sm:w-auto sm:mb-0"
-                    href="https://unitytest-three.vercel.app/"
+                    // href="https://unitytest-three.vercel.app/"
+                    href="https://www.voxels.com/spaces/c0af5830-19fc-4e1f-9054-5c455eaea5c0/play"
                   >
                     3D Website
                   </a>
